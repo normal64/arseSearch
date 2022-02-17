@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/normal64/arseSearch/static/css/main.abcb1118.css",
+    "main.js": "/normal64/arseSearch/static/js/main.1f8f2e03.js",
+    "static/media/logo-search-grid-desktop.png": "/normal64/arseSearch/static/media/logo-search-grid-desktop.a71e6cceffa928396aae.png",
+    "index.html": "/normal64/arseSearch/index.html",
+    "main.abcb1118.css.map": "/normal64/arseSearch/static/css/main.abcb1118.css.map",
+    "main.1f8f2e03.js.map": "/normal64/arseSearch/static/js/main.1f8f2e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abcb1118.css",
+    "static/js/main.1f8f2e03.js"
+  ]
+}
